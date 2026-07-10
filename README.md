@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0228-summary-ranges](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0228-summary-ranges) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Two Pointers
 |  |
