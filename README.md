@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0228-summary-ranges](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0228-summary-ranges) |
+| [0268-missing-number](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Two Pointers
 |  |
@@ -29,12 +30,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -44,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -65,12 +69,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
