@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Two Pointers
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Linked List
 |  |
 | ------- |
