@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0463-island-perimeter](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0463-island-perimeter) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Two Pointers
 |  |
@@ -108,4 +109,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0463-island-perimeter) |
+## Matrix
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
