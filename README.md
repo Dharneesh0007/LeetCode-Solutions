@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Two Pointers
@@ -132,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+## Simulation
+|  |
+| ------- |
+| [0495-teemo-attacking](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0495-teemo-attacking) |
 <!---LeetCode Topics End-->
