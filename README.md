@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Two Pointers
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0561-array-partition) |
 ## Counting
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0561-array-partition) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -146,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0506-relative-ranks) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
