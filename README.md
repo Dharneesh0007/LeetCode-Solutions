@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0561-array-partition) |
+| [0566-reshape-the-matrix](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Two Pointers
 |  |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0463-island-perimeter) |
+| [0566-reshape-the-matrix](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
 ## Stack
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0495-teemo-attacking](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0495-teemo-attacking) |
+| [0566-reshape-the-matrix](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
