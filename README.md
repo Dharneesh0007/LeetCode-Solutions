@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
+| [0575-distribute-candies](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0575-distribute-candies) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Two Pointers
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0500-keyboard-row) |
+| [0575-distribute-candies](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0575-distribute-candies) |
 ## Linked List
 |  |
 | ------- |
