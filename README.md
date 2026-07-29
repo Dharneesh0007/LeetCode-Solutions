@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0575-distribute-candies) |
+| [0598-range-addition-ii](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0598-range-addition-ii) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Two Pointers
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0598-range-addition-ii](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0598-range-addition-ii) |
 ## Recursion
 |  |
 | ------- |
