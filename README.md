@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0575-distribute-candies) |
 | [0598-range-addition-ii](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0598-range-addition-ii) |
+| [0605-can-place-flowers](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Two Pointers
 |  |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 ## Depth-First Search
 |  |
 | ------- |
