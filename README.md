@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0645-set-mismatch) |
+| [0661-image-smoother](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0661-image-smoother) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Two Pointers
 |  |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0463-island-perimeter](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
+| [0661-image-smoother](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0661-image-smoother) |
 ## Stack
 |  |
 | ------- |
