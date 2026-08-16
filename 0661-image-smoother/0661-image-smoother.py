@@ -16,7 +16,7 @@ class Solution:
                 
                 smoothed_val = total_sum // count
                 img[r][c] |= (smoothed_val << 8)
-        
+                
         for r in range(m):
             for c in range(n):
                 img[r][c] >>= 8
