@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0661-image-smoother) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0682-baseball-game) |
+| [0697-degree-of-an-array](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0697-degree-of-an-array) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Two Pointers
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0645-set-mismatch) |
+| [0697-degree-of-an-array](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0697-degree-of-an-array) |
 ## Linked List
 |  |
 | ------- |
