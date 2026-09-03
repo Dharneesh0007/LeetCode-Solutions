@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0705-design-hashset) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Two Pointers
 |  |
@@ -77,10 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0697-degree-of-an-array) |
+| [0705-design-hashset](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0705-design-hashset) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0705-design-hashset](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0705-design-hashset) |
 ## Math
 |  |
 | ------- |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0705-design-hashset](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0705-design-hashset) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -186,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
