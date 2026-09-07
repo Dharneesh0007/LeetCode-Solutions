@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0706-design-hashmap) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0724-find-pivot-index](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Two Pointers
 |  |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 ## Greedy
 |  |
 | ------- |
