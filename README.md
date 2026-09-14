@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Two Pointers
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Hash Table
 |  |
 | ------- |
