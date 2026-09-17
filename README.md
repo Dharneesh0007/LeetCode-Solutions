@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Two Pointers
 |  |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
+| [0746-min-cost-climbing-stairs](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 ## Hash Function
 |  |
 | ------- |
