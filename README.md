@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Two Pointers
 |  |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0645-set-mismatch) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 ## Counting
 |  |
 | ------- |
