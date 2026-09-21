@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0748-shortest-completing-word](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0748-shortest-completing-word) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Two Pointers
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0706-design-hashmap) |
+| [0748-shortest-completing-word](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0748-shortest-completing-word) |
 ## Linked List
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0500-keyboard-row](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0748-shortest-completing-word](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0748-shortest-completing-word) |
 ## Sliding Window
 |  |
 | ------- |
