@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0748-shortest-completing-word](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0748-shortest-completing-word) |
 | [0766-toeplitz-matrix](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0766-toeplitz-matrix) |
+| [0804-unique-morse-code-words](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0804-unique-morse-code-words) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Two Pointers
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0706-design-hashmap) |
 | [0748-shortest-completing-word](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0748-shortest-completing-word) |
+| [0804-unique-morse-code-words](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0804-unique-morse-code-words) |
 ## Linked List
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0748-shortest-completing-word](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0748-shortest-completing-word) |
+| [0804-unique-morse-code-words](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0804-unique-morse-code-words) |
 ## Sliding Window
 |  |
 | ------- |
