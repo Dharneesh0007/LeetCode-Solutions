@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0766-toeplitz-matrix) |
 | [0804-unique-morse-code-words](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0806-number-of-lines-to-write-string) |
+| [0812-largest-triangle-area](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0812-largest-triangle-area) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Two Pointers
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0598-range-addition-ii](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0598-range-addition-ii) |
+| [0812-largest-triangle-area](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0812-largest-triangle-area) |
 ## Recursion
 |  |
 | ------- |
@@ -222,4 +224,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0705-design-hashset](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0706-design-hashmap) |
+## Geometry
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0812-largest-triangle-area) |
+## Polygons
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
