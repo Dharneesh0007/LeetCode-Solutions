@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0812-largest-triangle-area](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0812-largest-triangle-area) |
 | [0819-most-common-word](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0819-most-common-word) |
+| [0821-shortest-distance-to-a-character](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Two Pointers
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0821-shortest-distance-to-a-character](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Binary Search
 |  |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0819-most-common-word) |
+| [0821-shortest-distance-to-a-character](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 ## Sliding Window
 |  |
 | ------- |
