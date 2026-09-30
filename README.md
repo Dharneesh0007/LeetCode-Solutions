@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
+| [0860-lemonade-change](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Two Pointers
 |  |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
+| [0860-lemonade-change](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 ## Depth-First Search
 |  |
 | ------- |
