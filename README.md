@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-surface-area-of-3d-shapes](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0892-surface-area-of-3d-shapes) |
 | [0905-sort-array-by-parity](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0908-smallest-range-i](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0908-smallest-range-i) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Two Pointers
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0819-most-common-word) |
 | [0888-fair-candy-swap](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0888-fair-candy-swap) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Linked List
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-projection-area-of-3d-shapes](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0892-surface-area-of-3d-shapes) |
 | [0908-smallest-range-i](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0908-smallest-range-i) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Recursion
 |  |
 | ------- |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0819-most-common-word](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0819-most-common-word) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Design
 |  |
 | ------- |
@@ -266,4 +270,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0812-largest-triangle-area) |
+## Number Theory
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 <!---LeetCode Topics End-->
