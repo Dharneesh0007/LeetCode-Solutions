@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0908-smallest-range-i](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0908-smallest-range-i) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0929-unique-email-addresses](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0929-unique-email-addresses) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Two Pointers
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0819-most-common-word) |
 | [0888-fair-candy-swap](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0888-fair-candy-swap) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0929-unique-email-addresses](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0929-unique-email-addresses) |
 ## Linked List
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
+| [0929-unique-email-addresses](https://github.com/Dharneesh0007/LeetCode-Solutions/tree/master/0929-unique-email-addresses) |
 ## Sliding Window
 |  |
 | ------- |
